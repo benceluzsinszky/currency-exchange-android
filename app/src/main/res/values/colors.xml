@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="select_gray">#1B1B1C</color>
+    <color name="bg_gray">#272829</color>
+    <color name="currency">#EEF2F6</color>
+    <color name="rate">#BDBDBD</color>
+    <color name="ic_launcher_background">#3F497F</color>
+</resources>
