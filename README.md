@@ -2,5 +2,4 @@
 A currency converter Android application, that lets you convert between the 30 most frequently used currencies (plus BTC).
 
 
-The exchange rates are gathered from a Firebase Realtime database.
-The source of the exchange rates is  https://openexchangerates.org/api/
+The exchange rates are from https://openexchangerates.org/api/ and are updated every 30 minutes by my [exchange rate](https://github.com/benceluzsinszky/load-exchange-rates) script 
