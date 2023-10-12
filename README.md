@@ -1,4 +1,5 @@
-# currency-exchange-android
+# Currency Exchange Android App
+
 A currency converter Android application, that lets you convert between the 30 most frequently used currencies (plus BTC).
 
 
